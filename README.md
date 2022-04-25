@@ -1,16 +1,26 @@
 # Hi there 👋 I'm Rob
 
-## Languages and Tools
 
-- JavaScript
-- Typescript
-- Vue
-- React
-- Angular
-- NestJS
-- NodeJS
-- C#
-- MongoDB
+## :hammer: Languages and Tools
+
+<div style='display: flex; flex-wrap: wrap;'>
+  <img style="width: 48px; height: 48px; margin: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img style="width: 48px; height: 48px; margin: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img style="width: 48px; height: 48px; margin: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img style="width: 48px; height: 48px; margin: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img style="width: 48px; height: 48px; margin: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img style="width: 48px; height: 48px; margin: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img style="width: 48px; height: 48px; margin: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img style="width: 48px; height: 48px; margin: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img style="width: 48px; height: 48px; margin: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img style="width: 48px; height: 48px; margin: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img style="width: 48px; height: 48px; margin: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <img style="width: 48px; height: 48px; margin: 1rem;" class="language-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img style="width: 48px; height: 48px; margin: 1rem;" class="language-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img style="width: 48px; height: 48px; margin: 1rem;" class="language-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img style="width: 48px; height: 48px; margin: 1rem;" class="language-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img style="width: 48px; height: 48px; margin: 1rem;" class="language-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+</div>
 
 ## Currently working on
 - Working on my [Portfolio Site](https://robbailey3.co.uk)
