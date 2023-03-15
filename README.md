@@ -22,15 +22,6 @@
   <img style="width: 48px; height: 48px; margin: 1rem;" class="language-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
 
-## Currently working on
-- Working on my [Portfolio Site](https://robbailey3.co.uk)
-  - Adding a game engine
-  - Building a basic CMS to write blog posts and stuff like that
-- Building a few command line tools with go 
-
-## Currently learning 
-- Go
-
 ## Contact me
 - Email me [here](mailto:rob.bailey3+githubcontact@gmail.com)
 
